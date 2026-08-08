@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm @cheho-park
+I'm <a href="https://github.com/cheho-park">@cheho-park</a>
 <div align="left">
   <h3>Languages</h3>
   <a href="https://www.python.org" target="_blank">
